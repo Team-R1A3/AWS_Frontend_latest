@@ -28,8 +28,8 @@ const InstanceList=() =>{
                     <th style={{minWidth:" 15rem"}}>Instance ID</th>
                     <th style={{minWidth:" 10rem"}}>Instance state</th>
                     <th style={{minWidth:" 10rem"}}>Instance type</th>
+                    <th style={{minWidth:" 10rem"}}>Private Ip</th>
                     <th style={{minWidth:" 10rem"}}>Public Ip</th>
-                    <th style={{minWidth:" 10rem"}}>PrivateIp</th>
 
                     <th style={{minWidth:" 10rem"}}>Status Check</th>
                     <th style={{minWidth:" 10rem"}}>Alarm status</th>
